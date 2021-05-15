@@ -1,0 +1,12 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Grams</item>
+        <item>Cups</item>
+    </string-array>
+
+    <string-array name="unit_values">
+        <item>gm</item>
+        <item>cups</item>
+    </string-array>
+</resources>
